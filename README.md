@@ -1,3 +1,3 @@
-Project - ECE 8803 - Fundamentals of Machine Learning
-Félix Arnold
+Project - ECE 8803 - Fundamentals of Machine Learning <br>
+Félix Arnold <br>
 Zhiming Dai
